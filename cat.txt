@@ -1,4 +1,9 @@
 This cat is sleepy.
 
 She was up all night at a rave. If the cat drinks coffee she'll wake up.
-Drugs are bad mmk.
+<<<<<<< HEAD
+=======
+
+Of course the next day hangover was nothing nice.
+
+>>>>>>> 8cd3f7abbc778419a9d9359b768f0e7203061a3e
