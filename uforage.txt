@@ -4,4 +4,10 @@
 
 You must continue this story !
 
+<<<<<<< HEAD
 <p> Upon finishin the chicken pita sandwich, the traveller instantaneously transformed into a sloth </p>
+=======
+
+>>>>>>> master
+
+<p> The sloth formerly the traveller and now the sloth decided that it would time travel to the consecutive day and search for its lunch. Not knowing what to eat, but knowing it wanted to consume something with meat, the sloth narrowed herhis options to a distant mountain that had many sheep, goats, liontiger inhabitants".
