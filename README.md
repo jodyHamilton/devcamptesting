@@ -1,7 +1,7 @@
 @PhillyDevCamp Testing!
 ==============
 
-A testing git repo for practicing git. Refer to the wonderful **[documentation]**(http://git-scm.com/documentation) for instructions on how to use Git.
+A testing git repo for practicing git. Refer to the wonderful **[documentation](http://git-scm.com/documentation)** for instructions on how to use Git.
 
 The GitHub cat (aka Octocat) is up all night to get lucky!
 
